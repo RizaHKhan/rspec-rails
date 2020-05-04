@@ -8,3 +8,8 @@
 
 3. Create a boilerplate RSpec folders:
 `rails generate rspec:install`
+
+
+## Adding folders/files for testing purposes
+1. Add a model folder like so:
+`rails g rspec:model user`
